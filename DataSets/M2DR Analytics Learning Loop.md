@@ -181,24 +181,3 @@ Each cohort:
 * Reduces prep load over time
 
 ---
-
-## Optional Naming (If You Want a Label)
-
-You might brand this as:
-
-* **“Method First, Meaning Second”**
-* **“Analytics Translation Loop”**
-* **“One Method, Many Worlds”**
-* **“Discipline-Aware Analytics”**
-
-Even just naming it helps students see it as intentional.
-
----
-
-If you want, next we can:
-
-* Map this explicitly onto **each module in your syllabus**
-* Design a **rubric** for the translation section
-* Create a **one-page explainer** you give students in Week 1 so they understand *why* the course works this way
-
-This is already a very strong course—you’re just making its *implicit wisdom explicit*.
