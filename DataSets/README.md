@@ -27,3 +27,4 @@
 | **Public Sector & Environmental Analytics** | `air_quality_by_county.csv`                   | Environmental impact, spatial analysis           |                     |
 | **Technology & Product Analytics**          | `detectors.csv`                               | Product performance, anomaly detection           |                     |
 
+Proposing [CDDB](DataSets/M2DR Analytics Learning Loop.md)
